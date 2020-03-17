@@ -1,0 +1,12 @@
+Brody McColeman and Jaden Barrick MOD 3 PROJECT
+We did the project together as the assignment sheet said we can work in groups of 2
+
+Replacing screen cast with text file
+
+The hardest part for us during this assignment was having to get all our prototypes set up properly and making sure they all were inheritiing everything from the main
+function the way they were supposed to be.
+Another issue was getting the new cost to print for special rates, which we still couldn't really get working properly even after extensive research on google, we determined
+that we are more then likely mising something realy small that we just can't see and thats causing it to not print the way it should.
+
+Something i think we would do differently for next time is looking at having m,ultiple pages for each section, like one html page for regular rentals and then one for special rates
+and one for super hosts, and then have buttons that would navigate you through them all.
